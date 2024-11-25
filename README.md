@@ -21,3 +21,7 @@ APK下载 蓝奏云
 - 使用最新流行的[Coil](https://coil-kt.github.io/coil/)替换了Glide
 - 参考并重写了[HtmlTextView](https://github.com/SufficientlySecure/html-textview)
 - 做了App崩溃的自动重启，请参考代码AppGuard
+
+## BrowserStack
+
+This project is tested with BrowserStack
